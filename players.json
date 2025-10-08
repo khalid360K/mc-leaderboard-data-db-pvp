@@ -1,0 +1,5 @@
+[
+  {"username":"PlayerOne","wins":12,"losses":3,"kills":45,"rating":1500,"last_seen":"2025-10-08T08:00:00Z"},
+  {"username":"PlayerTwo","wins":9,"losses":5,"kills":32,"rating":1400,"last_seen":"2025-10-07T20:00:00Z"},
+  {"username":"PlayerThree","wins":15,"losses":2,"kills":60,"rating":1600,"last_seen":"2025-10-08T06:00:00Z"}
+]
